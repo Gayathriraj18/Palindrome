@@ -18,6 +18,11 @@ Step 5: print palindrome if it's equal else print not a palindrome.
 Step 6: Save the program and run the program in visual studio 2022.
 
 ## Program:
+
+Developed by : Gayathri A
+
+Register Number : 212221230028
+
 ```
 using System;
 namespace Palindrome
